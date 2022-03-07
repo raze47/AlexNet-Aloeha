@@ -1,4 +1,4 @@
-<h1>Aloeha is an undergradaute thesis by, wherein this architecutre was used for comparison<h1>
+<h1>Aloeha is an undergradaute thesis by, wherein this architecutre was used for comparison</h1>
  <br>
 [Joash Edson Flores](https://github.com/Jedflo)
    <br>
