@@ -1,6 +1,6 @@
 <h4>Aloeha is an undergradaute thesis by: </h4>
 
-     <ul>
+ <ul>
  <li><a href="https://github.com/Jedflo">Joash Edson Flores</a></li>
  <li><a href="https://github.com/Exqst">Raymond Gatdula</a></li>
  <li><a href="https://github.com/MachuMachu">Mathew Mojado</a></li>
